@@ -5,13 +5,7 @@
 ### i need you
 # My first GitHub repo 
 
------BEGIN OPENSSH PRIVATE KEY-----
-b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtz
-c2gtZWQyNTUxOQAAACAFQH3U5F+5m/XRGDZwm/DuvINP26px+n42DR22AKarBwAA
-AIiOur0Cjrq9AgAAAAtzc2gtZWQyNTUxOQAAACAFQH3U5F+5m/XRGDZwm/DuvINP
-26px+n42DR22AKarBwAAAEAwUQIBATAFBgMrZXAEIgQgIorUWdidw8dSwnCs1aqP
-dwVAfdTkX7mb9dEYNnCb8O68g0/bqnH6fjYNHbYApqsHAAAAAAECAwQF
------END OPENSSH PRIVATE KEY-----
+
 
 
 MYO MINN OO created this repo for the first time. Below are some exerpts from [What Is GitHub? A Beginner’s Introduction to GitHub](https://kinsta.com/knowledgebase/what-is-github/) by Kinsta.
